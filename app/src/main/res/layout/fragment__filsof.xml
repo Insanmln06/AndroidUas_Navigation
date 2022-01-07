@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.Fragment_Filsof">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:src="@drawable/tbb"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEATER BANYU BIRU"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Teater Banyu Biru merupakan UKM ( unit kegiatan mahasiswa ) yang berada di Politeknik \n Harapan Bersama  beridir pada tahun 2015 \n yang diketuai oleh Mas Wisnu   \n logo banyu biru mempunyai arti mengalirr secara terus  menerus dalam keadaan senang dan sedih "
+        android:layout_marginTop="25dp"
+        android:textSize="15dp"
+        android:textAlignment="center"/>
+
+
+</LinearLayout>

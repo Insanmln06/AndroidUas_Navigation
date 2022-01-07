@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UasMy/app/src/main/res/drawable/ic_book.xml" value="0.1648148148148148" />
+        <entry key="..\:/UasMy/app/src/main/res/drawable/ic_class.xml" value="0.1648148148148148" />
+        <entry key="..\:/UasMy/app/src/main/res/drawable/ic_mk.xml" value="0.1648148148148148" />
+        <entry key="..\:/UasMy/app/src/main/res/drawable/ic_person.xml" value="0.1648148148148148" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/activity_struktur.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/adapter_struktur.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/fragment__filsof.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/fragment__kegiatan.xml" value="0.19010416666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/fragment__puisi.xml" value="0.25" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/fragment__struktur.xml" value="0.19010416666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/fragment_filsof_.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/UasMy/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

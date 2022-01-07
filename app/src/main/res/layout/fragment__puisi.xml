@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.Fragment_Puisi">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Semangat Mahasiswa"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kita sedang terjajah sekarang \n Mari kita lawan,bukan dengan perang \n Melainkan kelogikaan \n Bangsa kita semakin di bodohi
+\n \n Kita para Mahasiswa
+\n Yang harusnya memiliki semangat juang
+\n Sebagaimna para pejuang dulu
+\n Namun sayangnya kita terlalu leha-leha
+\n Menganggap negri kita sudah merdeka
+\n Padahal kita masih terjajah"
+
+        android:layout_marginTop="25dp"
+        android:textSize="15dp"
+        android:textAlignment="center"/>
+
+</LinearLayout>
